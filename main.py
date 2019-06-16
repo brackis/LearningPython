@@ -45,5 +45,3 @@ while True:
 
     else:
         print("Votre mise est trop élevé coup annulé")
-
-os.system("PAUSE")
